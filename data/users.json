@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5a06811b7176087e87da152353451f25de8e0edd125708c3442196a4a08a4700",
+    "role": "admin",
+    "created_at": "2026-04-07T18:26:40.392849",
+    "last_login": "2026-04-07T18:29:40.203987",
+    "active": true
+  },
+  "anand": {
+    "username": "anand",
+    "password": "0cced52fd4be2a617e3b0867f8d347798f537c8318f6631359b86a57a1a71272",
+    "role": "user",
+    "created_at": "2026-04-07T18:28:27.982426",
+    "last_login": "2026-04-07T18:28:45.067808",
+    "active": true
+  }
+}
