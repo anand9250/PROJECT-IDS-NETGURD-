@@ -97,7 +97,6 @@ def render_login_page():
         st.markdown("""
         <div style='text-align:center;margin-top:16px;font-size:.75rem;color:#506070;
                     font-family:"Share Tech Mono",monospace'>
-          Default admin: &nbsp;<b style='color:#00e5ff'>admin</b> / <b style='color:#00e5ff'>admin123</b>
         </div>
         """, unsafe_allow_html=True)
 
